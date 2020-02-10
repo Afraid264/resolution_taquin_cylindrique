@@ -1,0 +1,26 @@
+﻿  Taquin.cpp
+e:\testsprint5\testsprint5\etat.h(7): warning C4091: 'typedef ' : ignoré à gauche de 'Mouvement' quand aucune variable n'est déclarée
+e:\testsprint5\testsprint5\taquin.cpp(23): warning C4018: '<' : incompatibilité signed/unsigned
+e:\testsprint5\testsprint5\taquin.cpp(24): warning C4018: '<' : incompatibilité signed/unsigned
+e:\testsprint5\testsprint5\taquin.cpp(12): warning C4101: 'FinalState' : variable locale non référencée
+e:\testsprint5\testsprint5\taquin.cpp(46): warning C4018: '<' : incompatibilité signed/unsigned
+e:\testsprint5\testsprint5\taquin.cpp(50): warning C4018: '<' : incompatibilité signed/unsigned
+e:\testsprint5\testsprint5\taquin.cpp(54): warning C4018: '<' : incompatibilité signed/unsigned
+e:\testsprint5\testsprint5\taquin.cpp(81): warning C4018: '<' : incompatibilité signed/unsigned
+e:\testsprint5\testsprint5\taquin.cpp(69): warning C4101: 'm' : variable locale non référencée
+e:\testsprint5\testsprint5\taquin.cpp(174): warning C4018: '<' : incompatibilité signed/unsigned
+e:\testsprint5\testsprint5\taquin.cpp(180): warning C4018: '<' : incompatibilité signed/unsigned
+e:\testsprint5\testsprint5\taquin.cpp(193): warning C4018: '<' : incompatibilité signed/unsigned
+e:\testsprint5\testsprint5\taquin.cpp(199): warning C4018: '<' : incompatibilité signed/unsigned
+e:\testsprint5\testsprint5\taquin.cpp(214): warning C4018: '<' : incompatibilité signed/unsigned
+e:\testsprint5\testsprint5\taquin.cpp(231): warning C4018: '<' : incompatibilité signed/unsigned
+e:\testsprint5\testsprint5\taquin.cpp(238): warning C4018: '<' : incompatibilité signed/unsigned
+e:\testsprint5\testsprint5\taquin.cpp(239): warning C4018: '<' : incompatibilité signed/unsigned
+e:\testsprint5\testsprint5\taquin.cpp(268): warning C4018: '<' : incompatibilité signed/unsigned
+e:\testsprint5\testsprint5\taquin.cpp(271): warning C4018: '<' : incompatibilité signed/unsigned
+e:\testsprint5\testsprint5\taquin.cpp(272): warning C4018: '<' : incompatibilité signed/unsigned
+e:\testsprint5\testsprint5\taquin.cpp(294): warning C4018: '<' : incompatibilité signed/unsigned
+e:\testsprint5\testsprint5\taquin.cpp(310): warning C4018: '<' : incompatibilité signed/unsigned
+e:\testsprint5\testsprint5\taquin.cpp(326): warning C4018: '<' : incompatibilité signed/unsigned
+e:\testsprint5\testsprint5\taquin.cpp(355): warning C4018: '<' : incompatibilité signed/unsigned
+  TestSprint5.vcxproj -> E:\TestSprint5\Debug\TestSprint5.exe
